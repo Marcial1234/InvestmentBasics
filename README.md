@@ -57,7 +57,7 @@ Extra features | TLH\* at 50k+ | TLH\* at 100k+, TODI\* at 500k+
 ### Monthly Fees
 Betterment | Wealthfront
 --- | :---:
-Balance: <ul><li>> 100k = 0.15%</li><li>100k < 10k = 0.25%</li><li>< 10k = 0.35% <br> with a $100/month minimum auto-deposit, else $3/month.</li></ul> calculated quaterly | (Balance - 10k) * 0.025, calculated annually
+Balance: <ul><li>> 100k = 0.15%</li><li>100k < 10k = 0.25%</li><li>< 10k = 0.35% <br> with a $100/month minimum auto-deposit, else $3/month.</li><li>Calculated quaterly</li></ul> | (Balance - 10k) * 0.025, i.e 2.5% after 10k, calculated annually
 
 Betterment:
 * Fees:
