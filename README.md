@@ -22,20 +22,29 @@ Beginner explainer videos can be found here:
 * [More General Videos](http://www.investopedia.com/video/ "All Videos")
 
 Different Investment Strategies:
-* [Angel Investing](#Angel)
-* []()
-* []()
-* []()
-* []()
+* [Angel Investing](#angel)
+* [Stock Market](#stockmarket)
+* [ETFs](#etfs)
+* [P2P Lending](#p2p)
+
 * Real Estate, but that is only if you got already a lot of CA$H already laying around.
   * 15% or more of the property value preffered, 8% minimum for conventional loans, or 6% for FHA or Home Path Financing (but good luck getting those approved).
 
 
-##Angel
+## Angel
+Risky risky. You're investing in someone else idea that, most of the time, has yet to be proven on the market.
+* Seedinvest
+* EquityNet
+* CircleUp
+* crowdfunder
+* [Others](http://www.crowdcrux.com/top-10-equity-crowdfunding-websites-for-startups/)
 
+## Stock Market
 Merril Edge, etc
 Robinhood
 
+
+## 
 Betterment:
 * 100 Investing Plans
 * Fees:
