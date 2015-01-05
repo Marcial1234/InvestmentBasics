@@ -43,7 +43,7 @@ There's also [Robinhood](https://www.robinhood.com/) which is new platform with 
 [ETFs](http://www.investopedia.com/video/play/understanding-etfs/) are [index funds](http://www.investopedia.com/terms/i/indexfund.asp) that are traded like [stocks](http://www.investopedia.com/video/play/what-are-stocks/). These can be made to tracks an entire market instead of spefic comanies, making it them somewhat safer than buying a spesific company stock.
 
 ## P2P
-P2P Lending is a new way of investing/borrowing on which regular people fund loans. The 'investors' in this case get a nifty interest on their money while the platform/loan facilitators charges. 2 very popular platforms that are available to the regular Joe are [Prosper](www.Prosper.com) and [LendingClub](www.LendingClub.com). Both charge a flat 1% service fee on collected payments.
+P2P Lending is a new way of investing/borrowing on which regular people fund loans. The 'investors' in this case get a nifty interest on their money while the platform/loan facilitators charges. 2 very popular platforms that are available to the regular Joe are [Prosper](http://www.Prosper.com) and [LendingClub](http://www.LendingClub.com). Both charge a flat 1% service fee on collected payments.
 
 ## Robo-Investing
  | Betterment | Wealthfront
