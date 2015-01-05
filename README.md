@@ -10,7 +10,7 @@ Beginner explainer videos can be found here:
 * [Basics](http://www.investopedia.com/video/series/investing/ "Investing Basics") 
 * [More General Videos](http://www.investopedia.com/video/ "All Videos")
 
-Different Investment Strategies:
+Different Ways of Investing:
 * [Bonds and Saving Accounts](#bonds)
 * [Stock Market](#stock-market)
 * [ETFs](#etfs)
@@ -21,6 +21,9 @@ Different Investment Strategies:
 
 ## Bonds
 Easy peasy linear money!
+``` 
+// TBA
+```
 
 ## Stock Market
 Betting on spesific company stocks is rather risky. 
