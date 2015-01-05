@@ -36,7 +36,7 @@ Robinhood
  | Betterment | Wealthfront
 --- | :---: | :---:
 Minimum Deposit | None | $5,000
-Number of investment strategies available | 100 | 20 for taxable and 20 for retirement
+Number of investment strategies available | 100 | 40
 Has iOS App | Yes | Yes
 Has Android App | No | No
 Fees |  | 
