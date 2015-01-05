@@ -12,12 +12,12 @@ Beginner explainer videos can be found here:
 
 Different Investment Strategies:
 * [Bonds and Saving Accounts](#bonds)
-* [Stock Market](#stock market)
+* [Stock Market](#stock-market)
 * [ETFs](#etfs)
 * [Robo-Investing](#robo-investing)
 * [P2P Lending](#p2p)
 * [Angel Investing](#angel)
-* [Real Estate](#real estate)
+* [Real Estate](#real-estate)
 
 ## Bonds
 Easy peasy linear money!
@@ -58,13 +58,6 @@ Extra features | TLH\* at 50k+ | TLH\* at 100k+, TODI\* at 500k+
 Betterment | Wealthfront
 --- | :---:
 Balance: <ul><li>> 100k = 0.15%</li><li>100k < 10k = 0.25%</li><li>< 10k = 0.35% <br> with a $100/month minimum auto-deposit, else $3/month.</li><li>Calculated quaterly</li></ul> | (Balance - 10k) * 0.025, i.e 2.5% after 10k, calculated annually
-
-Betterment:
-* Fees:
-  * > 100k = 0.15%
-  * 100k < 10k = 0.25%
-  * < 10k = 0.35% with $100/month minimum auto-deposit, else $3/month.
-* Fees based on quaterly avg balance.
 
 ## Angel
 Risky risky. You're investing in someone else idea that, most of the time, has yet to be proven on the market.
