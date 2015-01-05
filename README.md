@@ -25,16 +25,16 @@ Easy peasy linear money!
 ## Stock Market
 Betting on spesific company stocks is rather risky. 
 Here's a list of some online trading platforms where you can begin trading (some if not all have minimum deposit requirements):
-* (Merril Edge)[https://www.merrilledge.com/]
-* (ETrade)[https://us.etrade.com/home]
-* (TD Ameritrade)[https://www.tdameritrade.com/home.page]
-* (OptionsHouse)[http://www.optionshouse.com/]
-* (TradeKing)[https://www.tradeking.com/]
-* (TradeMonster)[https://www.trademonster.com/]
-* (Scottrade)[https://www.scottrade.com/]
+* [Merril Edge](https://www.merrilledge.com/)
+* [ETrade](https://us.etrade.com/home)
+* [TD Ameritrade](https://www.tdameritrade.com/home.page)
+* [OptionsHouse](http://www.optionshouse.com/)
+* [TradeKing](https://www.tradeking.com/)
+* [TradeMonster](https://www.trademonster.com/)
+* [Scottrade](https://www.scottrade.com/)
 * Etc
 
-There's also (Robinhood)[https://www.robinhood.com/] which is new platform with no commision fees and no minimum deposit to open.
+There's also [Robinhood](https://www.robinhood.com/) which is new platform with no commision fees and no minimum deposit to open.
 
 ## ETFs
 [ETFs](http://www.investopedia.com/video/play/understanding-etfs/) are [index funds](http://www.investopedia.com/terms/i/indexfund.asp) that are traded like [stocks](http://www.investopedia.com/video/play/what-are-stocks/). These can be made to tracks an entire market instead of spefic comanies, making it them somewhat safer than buying a spesific company stock.
@@ -57,9 +57,7 @@ Extra features | TLH\* at 50k+ | TLH\* at 100k+, TODI\* at 500k+
 ### Fees 
 Betterment | Wealthfront
 :---: | :---:
-<> | (Balance - 10k) * 0.025, calculated annually
-
-<ul><li>> 100k = 0.15%</li><li>100k < 10k = 0.25%</li><li>< 10k = 0.35% </br>with $100/month minimum auto-deposit, else $3/month.</li></ul>
+<ul><li>> 100k = 0.15%</li><li>100k < 10k = 0.25%</li><li>< 10k = 0.35% </br>with $100/month minimum auto-deposit, else $3/month.</li></ul> | (Balance - 10k) * 0.025, calculated annually
 
 Betterment:
 * Fees:
