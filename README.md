@@ -15,6 +15,7 @@ Different Ways of Investing:
 * [Stock Market](#stock-market)
 * [ETFs](#etfs)
 * [Robo-Investing](#robo-investing)
+  * [Monthly Fees](#monthly-fees)
 * [P2P Lending](#p2p)
 * [Angel Investing](#angel)
 * [Real Estate](#real-estate)
