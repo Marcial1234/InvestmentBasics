@@ -47,7 +47,7 @@ There's also [Robinhood](https://www.robinhood.com/) which is new platform with 
 P2P Lending is a new way of investing/borrowing on which regular people fund loans. The 'investors' in this case get a nifty interest on their money while the platform/loan facilitators charges. 2 very popular platforms that are available to the regular Joe are [Prosper](http://www.Prosper.com) and [LendingClub](http://www.LendingClub.com). Both charge a flat 1% service fee on collected payments.
 
 ## Robo-Investing
- | Betterment | Wealthfront
+ | [Betterment](http://www.Betterment.com) | [Wealthfront](http://www.Wealthfront.com)
 ---: | :---: | :---:
 Minimum Deposit | None | $5,000
 Number of investment strategies available | 100 | 40
