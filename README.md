@@ -76,5 +76,6 @@ This is only if you got already a lot of CA$H already laying around, and enough 
 
 ## Cryptocurrencies
 *I could have joined the party early (BTC @400$, ETH @<10$), but now I'm just watching frmo the sidelines*
+
 In theory they're not investments, but they're being treated as such since their value have yet to reach their true potential value (specially when everything starts being blockchain-based, even Git commits... you just wait).
 [Coinbase]() is a popular site to buy a few popular ones. I'd put my money on BitCoin (BTC, for long term), Ethereum (ETC), Dash, and  Monero.
