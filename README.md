@@ -73,3 +73,8 @@ Risky risky. You're investing in someone else idea that, most of the time, it ha
 
 ## Real Estate
 This is only if you got already a lot of CA$H already laying around, and enough to keep the desired properties maintained. You would need around 15% (or preferably more) of the property value in liquid (easy to cash) assets. 8% minimum for conventional loans, or 6% for FHA or Home Path Financing. Banks mostly take the offers from bidders with the less paperwork, as in no FHA or HomePath, and with most down payment. Best of luck getting the latter loans in popular regions.
+
+## Cryptocurrencies
+*I could have joined the party early (BTC @400$, ETH @<10$), but now I'm just watching frmo the sidelines*
+In theory they're not investments, but they're being treated as such since their value have yet to reach their true potential value (specially when everything starts being blockchain-based, even Git commits... you just wait).
+[Coinbase]() is a popular site to buy a few popular ones. I'd put my money on BitCoin (BTC, for long term), Ethereum (ETC), Dash, and  Monero.
